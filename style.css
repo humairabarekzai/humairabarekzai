@@ -1,0 +1,29 @@
+
+header{
+    background-color: darkorange;
+     padding-bottom:56px;
+     padding-top: 8px;
+    
+}
+.language{
+    font-weight: bold;
+    color: rgb(237, 96, 45);
+}
+thead{
+    color: aqua;
+}
+nav{
+    padding: 12px;
+    
+}
+nav a {
+    text-decoration: none;  
+    color: white;           
+    padding: 10px 15px;       
+    font-weight: bold;
+  }
+  footer{
+    background-color: coral;
+    height: 60px;
+    color: white;
+  }
